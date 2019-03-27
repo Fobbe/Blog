@@ -58,7 +58,7 @@ include 'design.css';
 <html>
 <body>
 	<form>
-	<input type="button" value="Eintrag erstellen" onclick="parent.location='eintraege_erstellen.php'">
+	<input type="button" value="Eintrag erstellen" onclick="parent.location='eintraege_create.php'">
 	</form>
 	<form>
 	<input type="button" value="Zurück zum Blog" onclick="parent.location='blog.php'">
